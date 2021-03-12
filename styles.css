@@ -1,0 +1,35 @@
+* {
+    font-size: Times;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 200px;
+}
+
+.right {
+    width: 250px;
+    padding: 0 1000px;
+}
+.left{
+    width: 450px;
+    padding: 0 ;
+
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.box{
+    border-width: 2px solid black;
+    border-color: black;
+    border-style: solid;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+
+#capitalized{
+    text-transform: uppercase;
+}
